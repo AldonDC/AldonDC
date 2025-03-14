@@ -12,7 +12,7 @@
 ---
 
 ### 💡 ¿Qué puedo aportar?  
-✔ Desarrollo en **Python** y **ROS(PROYECTOS EN LA PARTE DE ROBOTICA INTELIGENTE)** 🐍  
+✔ Desarrollo en **Python** y **ROS (PROYECTOS EN LA PARTE DE ROBOTICA INTELIGENTE) ** 🐍  
 ✔ Experiencia en **ROS 2** para la robótica 🚀  
 ✔ Conocimientos en **procesamiento de imágenes** y **Machine Learning** 🧠  
 ✔ Diseño de sistemas para **vehículos inteligentes** 🏎️  
