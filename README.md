@@ -26,12 +26,6 @@
 
 ---
 
-### 📬 ¡Hablemos!  
-📩 ¿Quieres discutir sobre autos inteligentes, robótica o desarrollo web?  
-💬 Pregúntame sobre **tecnología automotriz, redes neuronales o cómo integrar IA en autos**  
-
----
-
 ⚡ **Fun fact:** Me encanta bailar 💃 y voy al **gym** 🏋️‍♂️ para mantener el equilibrio entre código y movimiento.  
 
 ---
