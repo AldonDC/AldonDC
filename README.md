@@ -14,7 +14,7 @@
 
 > *"Fusionando la pasión por la automoción con la potencia de la inteligencia artificial para crear los vehículos del mañana"*
 
-Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. }.
+Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. 
 ## 💡 Áreas de Especialización
 
 - 🚗 **Automoción Inteligente**: Sistemas ADAS, percepción del entorno y toma de decisiones autónomas
