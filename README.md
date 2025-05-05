@@ -1,19 +1,20 @@
-# 👨‍💻 Alfonso DC | Ingeniero de Robótica & Visión Computacional
+# 👨‍💻 Alfonso Solis Díaz | Ingeniero en Robótica y Sistemas Digitales
 
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/AldonDC?style=social)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TuLinkedIn)
   ![Profile Views](https://komarev.com/ghpvc/?username=AldonDC&color=brightgreen)
+  [![Tecnológico de Monterrey](https://img.shields.io/badge/ITESM-Tec_de_Monterrey-0033A0?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAELSURBVDhPY/hPIWBiIANQpDF0//7/KCcn/3dMTPy/v7/3f2Nj4/+srKz/QUFB/y0sLP7LyMj8x6oRpKm2tva/r6/v/7S0tP+ZmZn/c3Jy/kdGRv63s7P7LyYm9h+rRqCm/2FhYf/d3Nz+Ozo6/gfhwMDA/1ZWVv/FxMSwawTFUXV19X9PT8//QUEhYI1AbGpq+t/Q0PC/pKQk2ASsGkFOpqWl/Q8ODgYbYWdn99/a2vq/jo4OWC1WjSCnJicng+MoOjoarNHMzOy/sbExWC1WjSCnxsfHg+PIz88fbISJiQlYLVaNIBzQ13cQhL29vcEa9fX1werQNYIxUNP/np6e/+3t7WCNampq/5WVlf/DxGBsAOL+UcJYzYZ7AAAAAElFTkSuQmCC)](https://tec.mx)
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwMThjODNhNzQ5ZjkwNDA5ODYxNWQ3ZWI3MDMxZDIyYzkyZjhkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/autonomous_vehicles.jpg" width="400"/>
 </div>
 
 ## 🚀 Sobre Mí
 
-> *Fusionando la pasión por la automoción con la potencia de la inteligencia artificial*
+> *"Fusionando la pasión por la automoción con la potencia de la inteligencia artificial para crear los vehículos del mañana"*
 
-Soy un ingeniero apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. Mi misión es desarrollar tecnologías que revolucionen la forma en que los vehículos perciben y navegan por el mundo.
+Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. Actualmente colaboro en el laboratorio **AMR TEC** (Autonomous Mobile Robots) en el Departamento de Mecatrónica - Campus Puebla, donde investigamos y desarrollamos tecnologías para vehículos autónomos y sistemas de percepción avanzados.
 
 ## 💡 Áreas de Especialización
 
