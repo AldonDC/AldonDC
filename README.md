@@ -68,9 +68,12 @@ Soy un ingeniero apasionado por la intersección entre la **robótica**, la **vi
   
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [🚗 AutoVision](https://github.com/AldonDC/proyecto-ejemplo) | Sistema de detección de objetos para ADAS | Python, OpenCV, TensorFlow |
-| [🤖 ROS2-Navigator](https://github.com/AldonDC/proyecto-ejemplo) | Framework de navegación autónoma con ROS2 | ROS2, C++, SLAM |
-| [🧠 DrivingNet](https://github.com/AldonDC/proyecto-ejemplo) | Red neuronal para predicción de comportamiento vial | PyTorch, Python, CUDA |
+| [🦆 Duck-Tracker-Project](https://github.com/AldonDC/Duck-Tracker-Project) | Sistema de seguimiento y análisis de trayectorias de patos utilizando visión por computadora y YOLO | HTML, Computer Vision, YOLO |
+| [🦆 Duck-Tracker](https://github.com/AldonDC/Duck-Tracker) | Fork mejorado de AlexRDZB/Duck-Tracker | Python |
+| [🤖 ros2_p3dx_vision](https://github.com/AldonDC/ros2_p3dx_vision) | ROS 2 + CoppeliaSim: Seguimiento visual con VisionSensor y control del Pioneer P3DX usando PID | Python, ROS2, Computer Vision |
+| [🤖 coppelia_pioneer_ros2](https://github.com/AldonDC/coppelia_pioneer_ros2) | Simulación y control del robot Pioneer P3DX en CoppeliaSim usando ROS 2, Humble + ZMQ | Python, ROS2, Coppelia |
+| [🦾 Robotic-Hand-Unity](https://github.com/AldonDC/Robotic-Hand-Unity) | Unity project for robotic hand simulation with Python API integration | Python, Unity |
+| [🔬 microros_ws_new](https://github.com/AldonDC/microros_ws_new) | Proyecto de microROS | Python |
   
 </div>
 
