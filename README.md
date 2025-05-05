@@ -55,7 +55,6 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing-foundation&logoColor=white"/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/>
 <img alt="CoppeliaSim" src="https://img.shields.io/badge/CoppeliaSim-E20074?style=for-the-badge&logo=coppelia-robotics&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
