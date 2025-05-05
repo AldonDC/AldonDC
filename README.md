@@ -3,7 +3,7 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/AldonDC?style=social)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TuLinkedIn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/alfonso-solis-díaz-190462253)
   ![Profile Views](https://komarev.com/ghpvc/?username=AldonDC&color=brightgreen)
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwMThjODNhNzQ5ZjkwNDA5ODYxNWQ3ZWI3MDMxZDIyYzkyZjhkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
