@@ -82,6 +82,10 @@ Soy un ingeniero apasionado por la intersección entre la **robótica**, la **vi
 - 🌐 **SLAM**: Localización y mapeo simultáneo para navegación robótica
 - ⚡ **Redes Neuronales Eficientes**: Optimización para sistemas embebidos
 - 🛠️ **DevOps para Robótica**: CI/CD para despliegue de sistemas robóticos
+- 🚗 **Percepción para Vehículos Autónomos**: Fusión sensorial LiDAR-Cámara y detección 3D
+- 🧠 **Toma de Decisiones Autónoma**: Algoritmos de planificación y control para conducción autónoma
+- 🛣️ **Mapeo HD**: Creación y utilización de mapas de alta definición para navegación precisa
+- 🔄 **Simulación Avanzada**: Entornos virtuales para pruebas de sistemas autónomos
 
 
 
