@@ -1,21 +1,20 @@
-# 👨‍💻 Alfonso Solis Díaz | Ingeniero en Robótica y Sistemas Digitales
+# 👨‍💻 Alfonso DC | Ingeniero de Robótica & Visión Computacional
 
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/AldonDC?style=social)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TuLinkedIn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfonso-solis-díaz-190462253)
   ![Profile Views](https://komarev.com/ghpvc/?username=AldonDC&color=brightgreen)
   [![Tecnológico de Monterrey](https://img.shields.io/badge/ITESM-Tec_de_Monterrey-0033A0?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAELSURBVDhPY/hPIWBiIANQpDF0//7/KCcn/3dMTPy/v7/3f2Nj4/+srKz/QUFB/y0sLP7LyMj8x6oRpKm2tva/r6/v/7S0tP+ZmZn/c3Jy/kdGRv63s7P7LyYm9h+rRqCm/2FhYf/d3Nz+Ozo6/gfhwMDA/1ZWVv/FxMSwawTFUXV19X9PT8//QUEhYI1AbGpq+t/Q0PC/pKQk2ASsGkFOpqWl/Q8ODgYbYWdn99/a2vq/jo4OWC1WjSCnJicng+MoOjoarNHMzOy/sbExWC1WjSCnxsfHg+PIz88fbISJiQlYLVaNIBzQ13cQhL29vcEa9fX1werQNYIxUNP/np6e/+3t7WCNampq/5WVlf/DxGBsAOL+UcJYzYZ7AAAAAElFTkSuQmCC)](https://tec.mx)
   
-  <img src="https://raw.githubusercontent.com/AldonDC/AldonDC/main/assets/autonomous_vehicles.jpg" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwMThjODNhNzQ5ZjkwNDA5ODYxNWQ3ZWI3MDMxZDIyYzkyZjhkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ## 🚀 Sobre Mí
 
 > *"Fusionando la pasión por la automoción con la potencia de la inteligencia artificial para crear los vehículos del mañana"*
 
-Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. Actualmente colaboro en el laboratorio **AMR TEC** (Autonomous Mobile Robots) en el Departamento de Mecatrónica - Campus Puebla, donde investigamos y desarrollamos tecnologías para vehículos autónomos y sistemas de percepción avanzados.
-
+Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. }.
 ## 💡 Áreas de Especialización
 
 - 🚗 **Automoción Inteligente**: Sistemas ADAS, percepción del entorno y toma de decisiones autónomas
@@ -44,18 +43,30 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing-foundation&logoColor=white"/>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/>
+<img alt="CoppeliaSim" src="https://img.shields.io/badge/CoppeliaSim-E20074?style=for-the-badge&logo=coppelia-robotics&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img alt="NI RoboRIO" src="https://img.shields.io/badge/NI_RoboRIO-107C10?style=for-the-badge&logo=ni&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+<img alt="NI RoboRIO" src="https://img.shields.io/badge/NI_RoboRIO-107C10?style=for-the-badge&logo=ni&logoColor=white"/>
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -63,18 +74,6 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img alt="Jetson Nano" src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing-foundation&logoColor=white"/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/>
-<img alt="CoppeliaSim" src="https://img.shields.io/badge/CoppeliaSim-E20074?style=for-the-badge&logo=coppelia-robotics&logoColor=white"/>
 
 ### Áreas de Estudio
   
@@ -117,8 +116,6 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 - 🧠 **Toma de Decisiones Autónoma**: Algoritmos de planificación y control para conducción autónoma
 - 🛣️ **Mapeo HD**: Creación y utilización de mapas de alta definición para navegación precisa
 - 🔄 **Simulación Avanzada**: Entornos virtuales para pruebas de sistemas autónomos
-
-
 
 ## ⚡ Más Allá del Código:
 - 💃 Apasionado del baile: la combinación perfecta para liberar la mente
