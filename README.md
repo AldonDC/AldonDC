@@ -3,7 +3,7 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/AldonDC?style=social)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfonso-solis-díaz-190462253)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/alfonso-solis-díaz)
   ![Profile Views](https://komarev.com/ghpvc/?username=AldonDC&color=brightgreen)
   [![Tecnológico de Monterrey](https://img.shields.io/badge/ITESM-Tec_de_Monterrey-0033A0?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAELSURBVDhPY/hPIWBiIANQpDF0//7/KCcn/3dMTPy/v7/3f2Nj4/+srKz/QUFB/y0sLP7LyMj8x6oRpKm2tva/r6/v/7S0tP+ZmZn/c3Jy/kdGRv63s7P7LyYm9h+rRqCm/2FhYf/d3Nz+Ozo6/gfhwMDA/1ZWVv/FxMSwawTFUXV19X9PT8//QUEhYI1AbGpq+t/Q0PC/pKQk2ASsGkFOpqWl/Q8ODgYbYWdn99/a2vq/jo4OWC1WjSCnJicng+MoOjoarNHMzOy/sbExWC1WjSCnxsfHg+PIz88fbISJiQlYLVaNIBzQ13cQhL29vcEa9fX1werQNYIxUNP/np6e/+3t7WCNampq/5WVlf/DxGBsAOL+UcJYzYZ7AAAAAElFTkSuQmCC)](https://tec.mx)
   
