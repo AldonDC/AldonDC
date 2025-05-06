@@ -17,10 +17,10 @@
 Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterrey** apasionado por la intersección entre la **robótica**, la **visión computacional** y la **automoción inteligente**. 
 ## 💡 Áreas de Especialización
 
-- 🚗 **Automoción Inteligente**: Sistemas ADAS, percepción del entorno y toma de decisiones autónomas
+- 🚗 **Automoción Inteligente**: Sistemas de percepción del entorno y toma de decisiones autónomas
 - 👁️ **Visión Computacional**: Detección y seguimiento de objetos en tiempo real, segmentación semántica
 - 🤖 **Robótica**: Desarrollo con ROS/ROS2, sistemas de navegación y planificación de rutas
-- 🧠 **Inteligencia Artificial**: Aplicación de ML/DL a problemas de automoción y movilidad
+- 🧠 **Inteligencia Artificial**: Gusto por la parte de algoritmos inteligentes
 
 ## 🔧 Stack Tecnológico 
 
@@ -32,7 +32,6 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 ### Frameworks & Herramientas
@@ -49,10 +48,7 @@ Soy un ingeniero en Robótica y Sistemas Digitales del **Tecnológico de Monterr
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing-foundation&logoColor=white"/>
 <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/>
