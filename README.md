@@ -190,12 +190,18 @@ current_research:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldonDC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldonDC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+  
+  <a href="https://github.com/AldonDC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldonDC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldonDC&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldonDC&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AldonDC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
 
 ---
