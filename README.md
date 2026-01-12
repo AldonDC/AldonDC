@@ -187,21 +187,21 @@ current_research:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-  <a href="https://github.com/AldonDC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldonDC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldonDC&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AldonDC&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AldonDC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
+
+| 📈 Stats | 🔥 Contributions | 🏆 Achievements |
+|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/Public_Repos-15+-6366F1?style=for-the-badge) | ![Commits](https://img.shields.io/badge/Total_Commits-500+-4ECDC4?style=for-the-badge) | ![Stars](https://img.shields.io/badge/Stars_Earned-⭐_Growing-FFD700?style=for-the-badge) |
+| ![Followers](https://img.shields.io/github/followers/AldonDC?style=for-the-badge&color=6366F1&label=Followers) | ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20MATLAB%20%7C%20C-FF6B6B?style=for-the-badge) | ![PRs](https://img.shields.io/badge/Open_Source-Contributor-00D26A?style=for-the-badge) |
+
 </div>
 
 ---
