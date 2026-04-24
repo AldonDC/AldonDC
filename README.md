@@ -32,10 +32,10 @@ status: Open to research collaborations & robotics internships
 
 ## Experience
 
-🔬 **Research Intern — AMR Lab** · Tecnológico de Monterrey · 2024 – Present
+🔬 **Research Intern — AMR Lab** · Tecnológico de Monterrey · 2025 – Present
 > 3D mapping pipeline with VLP-16 LiDAR + RTK-GPS fusion. Real-time SLAM localization and CAN Bus vehicle integration.
 
-🎓 **B.Sc. Robotics and Digital Systems Engineering** · Tecnológico de Monterrey · 2021 – 2025
+🎓 **B.Sc. Robotics and Digital Systems Engineering** · Tecnológico de Monterrey · 2022 – 2026
 > Focus: Autonomous systems, embedded control, computer vision, sensor fusion.
 
 ---
